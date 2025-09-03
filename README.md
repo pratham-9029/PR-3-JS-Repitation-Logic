@@ -8,3 +8,9 @@
 <img width="992" height="227" alt="prog7" src="https://github.com/user-attachments/assets/eb0371cb-7f02-4dc6-a24b-5fc3008f5e25" />
 <img width="987" height="222" alt="prog8" src="https://github.com/user-attachments/assets/19e884eb-061b-44da-ae8b-c91e1dc04841" />
 <img width="987" height="218" alt="prog9" src="https://github.com/user-attachments/assets/61eaa8de-18b8-48b5-9e39-d810531e4363" />
+
+---
+
+## - Factorial
+<img width="1021" height="133" alt="fact" src="https://github.com/user-attachments/assets/a8baa01b-3ee9-4b8c-b9f7-d53cdc22b287" />
+
