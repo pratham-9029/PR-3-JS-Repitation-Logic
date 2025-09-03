@@ -14,3 +14,17 @@
 ## - Factorial
 <img width="1021" height="133" alt="fact" src="https://github.com/user-attachments/assets/a8baa01b-3ee9-4b8c-b9f7-d53cdc22b287" />
 
+---
+
+## - Fibonacci Series
+<img width="1010" height="127" alt="fibbonacci" src="https://github.com/user-attachments/assets/d4278ca4-705a-43a9-939d-9155eab495b6" />
+
+---
+
+## - Check Prime Or Not 
+<img width="997" height="122" alt="prime-or-not" src="https://github.com/user-attachments/assets/eefd514e-7433-493c-947b-7f4df449afea" />
+
+---
+
+## - All Prime
+<img width="1006" height="131" alt="all-prime" src="https://github.com/user-attachments/assets/088df2b5-df4c-48f4-93a9-5e865ec6f7f5" />
